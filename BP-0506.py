@@ -4,7 +4,7 @@ import requests
 from tkinter import messagebox
 from bs4 import BeautifulSoup
 
-apikey = '87ecfa8f51fb640667f021ea964dfd5fbdec6713e3f74e90227952a391dfd1df'
+apikey = 'your virustotal api key'
 
 
 def urlResultv1(cPage):
