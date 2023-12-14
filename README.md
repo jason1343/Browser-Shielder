@@ -1,5 +1,5 @@
-# BP-0506
-Browser Protector.
+# Browser-Shielder
+Browser Shielder.
 
 This browser will notice you if the current page is phishing page or includes phishing links using virustotal api key.
 
